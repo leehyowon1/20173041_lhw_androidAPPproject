@@ -2,4 +2,4 @@
 
 ## 2주차 과제
 
-<img width="300" height="300" src="./png/2주차.png"></img>
+![20173041 이효원 2주차 과제](https://user-images.githubusercontent.com/90251359/133184749-74824d9f-5a56-40ca-8aaa-275ceacea2d4.png)
