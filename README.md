@@ -1,4 +1,4 @@
-# 20173041_lhw_androidAPPproject
+# 20173041_이효원
 
 ## 2주차 과제
 
