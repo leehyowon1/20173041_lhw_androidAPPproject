@@ -26,4 +26,5 @@
 ![과제5](https://user-images.githubusercontent.com/90251359/136690235-3c8ba8f9-1715-410c-b894-e2b24b6d9d9f.png)
 
 ## 9주차 과제
-![20173041_이효원_캡스톤디자인9주차과제](https://user-images.githubusercontent.com/90251359/140305178-08dd2a7f-29b4-4603-8e93-6fe933a19c1f.png)
+![20173041_ 이효원_캡스톤디자인 9주차 과제](https://user-images.githubusercontent.com/90251359/140308853-83cae318-49ea-48a5-996b-79aefdc5537c.png)
+
