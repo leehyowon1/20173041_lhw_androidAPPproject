@@ -28,3 +28,9 @@
 ## 9주차 과제
 ![20173041_ 이효원_캡스톤디자인 9주차 과제](https://user-images.githubusercontent.com/90251359/140308853-83cae318-49ea-48a5-996b-79aefdc5537c.png)
 
+## 10주차 과제
+![20173041_이효원_캡스톤디자인10주차 과제 1](https://user-images.githubusercontent.com/90251359/140687523-8a9dc929-a738-4163-87ac-7c4688ee0c2a.png)
+![20173041_이효원_캡스톤디자인10주차과제2](https://user-images.githubusercontent.com/90251359/140687529-a82e9538-c711-4823-933f-cb5b36c5c742.png)
+![20173041_이효원_캡스톤디자인10주차과제3](https://user-images.githubusercontent.com/90251359/140687532-45a718d5-dcd5-48a4-89dc-161477bc6c8c.png)
+
+
