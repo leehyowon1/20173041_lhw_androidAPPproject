@@ -33,4 +33,8 @@
 ![20173041_이효원_캡스톤디자인10주차과제2](https://user-images.githubusercontent.com/90251359/140687529-a82e9538-c711-4823-933f-cb5b36c5c742.png)
 ![20173041_이효원_캡스톤디자인10주차과제3](https://user-images.githubusercontent.com/90251359/140687532-45a718d5-dcd5-48a4-89dc-161477bc6c8c.png)
 
+## 12주차 과제
+![20173041_이효원_캡스톤지다인12주차과제](https://user-images.githubusercontent.com/90251359/142988264-d923d144-6564-4fdf-b368-a93958a799b4.png)
+
+
 
